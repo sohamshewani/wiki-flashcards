@@ -1,0 +1,6 @@
+click
+rich
+requests
+beautifulsoup4
+pytest
+pytest-cov
